@@ -9,6 +9,8 @@ import net.minecraft.state.property.DirectionProperty;
 import net.minecraft.util.math.Direction;
 import net.minecraft.item.ItemPlacementContext;
 
+
+
 public class RollingTableBlock extends HorizontalFacingBlock {
     public static final DirectionProperty FACING = HorizontalFacingBlock.FACING;
 
@@ -38,4 +40,5 @@ public class RollingTableBlock extends HorizontalFacingBlock {
     public BlockRenderType getRenderType(BlockState state) {
         return BlockRenderType.MODEL;
     }
+
 }

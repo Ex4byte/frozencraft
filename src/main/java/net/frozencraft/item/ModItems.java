@@ -20,7 +20,7 @@ public class ModItems {
     public static final Item WET_OG_KUSH = registerItem("wet_og_kush", new Item(new Item.Settings()));
     public static final Item WET_KHALIFA_KUSH = registerItem("wet_khalifa_kush", new Item(new Item.Settings()));
     public static final Item WET_SOUR_DIESEL = registerItem("wet_sour_diesel", new Item(new Item.Settings()));
-
+    public static final Item ROLLING_TRAY = registerItem("rolling_tray", new Item(new Item.Settings().maxCount(1)));
 
 
 

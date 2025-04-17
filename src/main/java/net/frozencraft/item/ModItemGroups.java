@@ -26,7 +26,7 @@ public class ModItemGroups {
                         entries.add((ModItems.WET_OG_KUSH));
                         entries.add((ModItems.WET_KHALIFA_KUSH));
                         entries.add((ModItems.WET_SOUR_DIESEL));
-
+                        entries.add((ModItems.ROLLING_TRAY));
                     })
                     .build());
     public static final ItemGroup FROZENCRAFT_ITEM_BLOCKS = Registry.register(Registries.ITEM_GROUP,
