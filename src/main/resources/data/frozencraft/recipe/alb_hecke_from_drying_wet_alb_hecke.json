@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "alb_hecke",
+  "ingredient": {
+    "item": "frozencraft:wet_alb_hecke"
+  },
+  "result": {
+    "id": "frozencraft:alb_hecke"
+  }
+}

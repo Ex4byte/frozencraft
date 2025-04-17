@@ -1,0 +1,41 @@
+{
+  "textures": {
+    "top": "frozencraft:block/rolling_table_top",
+    "bottom": "frozencraft:block/rolling_table_bottom",
+    "front": "frozencraft:block/rolling_table_front",
+    "side": "frozencraft:block/rolling_table_side"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "up": {
+          "texture": "#top",
+          "uv": [0, 0, 16, 16],
+          "rotation": 180
+        },
+        "down": {
+          "texture": "#bottom",
+          "uv": [0, 0, 16, 16]
+        },
+        "north": {
+          "texture": "#front",
+          "uv": [0, 0, 16, 16]
+        },
+        "south": {
+          "texture": "#side",
+          "uv": [0, 0, 16, 16]
+        },
+        "west": {
+          "texture": "#side",
+          "uv": [0, 0, 16, 16]
+        },
+        "east": {
+          "texture": "#side",
+          "uv": [0, 0, 16, 16]
+        }
+      }
+    }
+  ]
+}

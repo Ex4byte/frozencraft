@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "frozencraft:block/rolling_table", "y": 0 },
+    "facing=east": { "model": "frozencraft:block/rolling_table", "y": 90 },
+    "facing=south": { "model": "frozencraft:block/rolling_table", "y": 180 },
+    "facing=west": { "model": "frozencraft:block/rolling_table", "y": 270 }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+    "item": "frozencraft:rolling_table"
+    }
+  ],
+  "result": {
+  "count": 9,
+  "id": ""
+  }
+}
